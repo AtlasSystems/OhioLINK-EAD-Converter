@@ -1,0 +1,21 @@
+{
+  "name": "ohiolink-ead-normalizer",
+  "version": "1.0.0",
+  "description": "Normalizes OhioLINK EADs for import into ArchivesSpace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OhioLink",
+    "EAD",
+    "ArchivesSpace"
+  ],
+  "author": "Dustin Stokes Atlas Systems, Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  }
+}

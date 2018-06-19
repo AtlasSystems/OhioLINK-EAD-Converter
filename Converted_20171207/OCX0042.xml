@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0042</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Associate Provost for Academic Affairs office records</titleproper>
+<author>Tim McCabe</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>3800 Victory Parkway</addressline><addressline>Cincinnati, OH 45207</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2014</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Office of the Associate Provost for Academic Affairs</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Associate Provost for Academic Affairs office records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>2 linear feet (2 boxes)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">Office records from the Xavier University Office of the Associate Provost for Academic Affairs. These records include correspondence, surveys, topical folders and other materials which reflect the activity of the office.</abstract>
+<unitid encodinganalog="035" label="RG  03.1.1" countrycode="us" repositorycode="OCX">XUA-42</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1998/2012" era="ce" calendar="gregorian">1998-2012</unitdate><unitdate type="bulk" label="Dates:" encodinganalog="245$g" normal="2002/2011" era="ce" calendar="gregorian">2002-2011</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This is a collection of office records of the Associate Provost for Academic Affairs. The collection includes surveys, meeting minutes and related materials of the Academic Affairs Committee, enrollment statistics, new faculty orientation programs, and other topics.</p><scopecontent/></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged into series by transfer dates. Within each series folders are arranged generally by original order.</p></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Restricted access. Please contact the Xavier University archives staff.</p></accessrestrict><otherfindaid><head>Other Finding Aid</head><p>A detailed listing of the contents of this collection is held on a spreadsheet in the Xavier University Archives office. Please contact the archives staff.</p></otherfindaid><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-42, Associate Provost for Academic Affairs office records, Xavier University Library, Cincinnati, Ohio.</p></prefercite><acqinfo encodinganalog="541"><head>Acquisition Information</head><p>These materials were transferred from the Office of the Associate Provost for Academic Affairs to the archives on different occasions.</p></acqinfo><accruals encodinganalog="584"><head>Accruals</head><p>Additional materials may be transferred to the archives in the future.</p></accruals><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Administration</subject><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Faculty</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="series"><did><container type="Box">1</container><unittitle>Office Files Transfer_2012-12-12</unittitle><unitdate type="inclusive" normal="1998/2012" era="ce" calendar="gregorian">1998-2012</unitdate></did></c01><c01 level="series"><did><container type="Box">2</container><unittitle>Office Files Transfer_2013-08-26</unittitle><unitdate type="inclusive" normal="2001/2011" era="ce" calendar="gregorian">2001-2011</unitdate></did></c01></dsc></archdesc>
+</ead>

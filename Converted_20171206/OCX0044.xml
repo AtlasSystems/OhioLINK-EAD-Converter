@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0044</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Communications and Marketing Network Committee records</titleproper>
+<author>Finding aid prepared by Thomas Kennealy, S.J.</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>3800 Victory Parkway</addressline><addressline>Cincinnati, OH 45207</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2014</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Communications and Marketing Network Committee</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Communications and Marketing Network Committee records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>.25 linear feet (1 box)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">This is a collection of meeting minutes and other records of the Xavier University Communications and Marketing Network Committee. This committee has had at least two name changes in the last few years.  At present only records from 2002-2003 are available.</abstract>
+<unitid encodinganalog="035" label="Accession Number" countrycode="us" repositorycode="OCX">XUA-44</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="2002/2004" era="ce" calendar="gregorian">2002-2004</unitdate><unitdate type="bulk" label="Dates:" encodinganalog="245$g" normal="2002/2003" era="ce" calendar="gregorian">2002-2003</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of the Communications and Marketing Network Committee</head><p>This committee has existed since at least 2002. It has had different names over the years.</p><bioghist><p>In 2003 it was called the Strategic Marketing Committee. By 2010 it was named the Marketing Coordinating Committee. In 2012 it had its current title Communications and Marketing Network Committee. According to the Annual List of University Committees and Their Membership for 2010-2011, the goal of this committee was "to enhance the University's image and revenue through an integrated marketing effort. Its specific purpose ...to coordinate all phases of marketing done at Xavier-- whether through publication, the web and graphic identity media and public relations, and image and program-specific advertising."</p></bioghist></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This is a collection of meeting minutes and various documents of the Xavier University Communications and Marketing Network Committee. At present only years 2002 and 2003 are represented.</p><scopecontent/></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Folders are generally in chronological arrangement.</p></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Restricted access. Please contact the Xavier University Archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-44, Communications and Marketing Network Committee records, Special Collections and Archives, Xavier University, Cincinnati, Ohio.</p></prefercite><accruals encodinganalog="584"><head>Accruals</head><p>Additional materials may be added to this collection as they are transferred to the archives.</p></accruals><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Public relations</subject><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Marketing</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Minutes and Undated Papers</unittitle><unitdate type="inclusive" normal="2003, undated" era="ce" calendar="gregorian">2003, undated</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Documents</unittitle><unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Documents</unittitle><unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate></did></c01></dsc></archdesc>
+</ead>

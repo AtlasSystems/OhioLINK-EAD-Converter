@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0010</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University President's Advisory Council records</titleproper>
+<author>Tim McCabe</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>1535 Musketeer Drive</addressline><addressline>Cincinnati, OH 45207-3341</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2013</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: A Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University. President's Advisory Council</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University President's Advisory Council records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>1.75 linear feet (4 boxes)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">Various records stemming from the Xavier University President's Advisory Council. Materials include agendas, meeting discussion materials, informational reports from the university president, and meeting planning documents.</abstract>
+<unitid encodinganalog="035" label="Collection Code" countrycode="us" repositorycode="OCX">XUA-10</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1992/2010" era="ce" calendar="gregorian">1992-2010</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of Xavier University President's Advisory Council</head><p>The President's Advisory Council was established in 1992 at the behest of Fr. James Hoff, the President of Xavier University. This council was to consist of those persons who had shown previous support and expressed interest in becoming more involved in the university through various means. Membership could include alumni, parents, and business or foundation representatives. Cultural diversity would be a character of the Council. The Council was divided into various sub-groups during its early years.   These sub-groups did change somewhat through the years, and the Council now meets as a full group twice a year.  The President's Advisory Council was chiefly to advise the President and other Xavier administrative officers (e.g. deans, program heads, etc.) who attended the meetings. The Council also was to help assist with university mission and goals, to give financial support to university needs, and to assist University Relations.</p><bioghist><p>Not specified</p></bioghist></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This collection consists of various materials relating to the President's Advisory Council. The materials date from 1992 through 2010. Types and amounts of information can vary somewhat from year to year.  Records include meeting agendas, informational literature, preparation materials for meetings, correspondence, reports, and directory information.</p><scopecontent><p>Not specified</p></scopecontent></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged by calendar year in general chronological order as given to the archives by the transferring office.</p></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Please contact the Xavier University Archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-10, President's Advisory Council records, Special Collections and Archives, Xavier University Library, Cincinnati, Ohio.</p></prefercite><acqinfo encodinganalog="541"><head>Acquisition Information</head><p>Transferred from the Xavier University President's Office to the archives in Summer, 2103.</p></acqinfo><accruals encodinganalog="584"><head>Accruals</head><p>There may be additions to this collection at a later date.</p></accruals><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Planning</subject></controlaccess><controlaccess><head>Organizations/Corporations:</head><corpname encodinganalog="710$a" source="local">Xavier University (Cincinnati, Ohio). President's Advisory Council.</corpname></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><unittitle>President's Advisory Council records</unittitle><unitdate type="inclusive" normal="1992/1998" era="ce" calendar="gregorian">1992-1998</unitdate></did></c01><c01 level="file"><did><container type="Box">2</container><unittitle>President's Advisory Council records</unittitle><unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate></did></c01><c01 level="file"><did><container type="Box">3</container><unittitle>President's Advisory Council records</unittitle><unitdate type="inclusive" normal="2002/2003" era="ce" calendar="gregorian">2002-2003</unitdate></did></c01><c01 level="file"><did><container type="Box">4</container><unittitle>President's Advisory Council records</unittitle><unitdate type="inclusive" normal="2004/2010" era="ce" calendar="gregorian">2004-2010</unitdate></did></c01></dsc></archdesc>
+</ead>

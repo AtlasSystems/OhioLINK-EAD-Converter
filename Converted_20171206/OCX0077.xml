@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0077</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Department of Mathematics and Computer Science records</titleproper>
+<author>Finding aid prepared by Thomas Kennealy, S.J..</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>3800 Victory Parkway</addressline><addressline>Cincinnati, OH 45207</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2015</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Department of Mathematics and Computer Science</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Department of Mathematics and Computer Science records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>.25 linear feet (1 box)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">This is a small collection of documents originating with the Xavier University Department of Mathematics and Computer Science.</abstract>
+<unitid encodinganalog="035" label="Collection Code" countrycode="us" repositorycode="OCX">XUA-76</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1989/1997" era="ce" calendar="gregorian">1989-1997</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of Xavier University Department of Mathematics and Computer Science</head><p>From 11/4/1946 to 3/31/1955 the department was known as the Department of Physics and Mathematics. In March, 1955 this department split into two different departments: the Department of Physics and the Department of Mathematics. The Department of Physics exists to this day. The Department of Mathematics became a new department in 1988: the Department of Mathematics and Computer Science.</p><bioghist/></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This small collection consists mainly of two self-studies: a self-study of the computer science program and a self-study of the mathematics program.</p><scopecontent/></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged into folders in chronological order.</p></arrangement><relatedmaterial encodinganalog="544 1"><head>Related Material</head><p>For additional information, see also XUA-75, Xavier University Department of Mathematics records.</p></relatedmaterial><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Some materials may have restricted access. Please contact the archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-76, Xavier University Department of Mathematics and Computer Science records, Special Collections and Archives, Xavier University, Cincinnati, Ohio.</p></prefercite><accruals encodinganalog="584"><head>Accruals</head><p>Additions to this collection are expected.</p></accruals><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Computer science--Study and teaching (Higher)</subject><subject encodinganalog="650$a" source="lcsh">Mathematics--Study and teaching (Higher)</subject></controlaccess><controlaccess><head>Organizations/Corporations:</head><corpname encodinganalog="610$a" source="local">Xavier University. Department of Mathematics and Computer Science</corpname></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Minutes and Correspondence</unittitle><unitdate type="inclusive" normal="1989/1990" era="ce" calendar="gregorian">1989-1990</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Self Study of Mathematics Program</unittitle><unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate></did><scopecontent><p>This folder contains the publication "Self-Study of the Mathematics Program, for the period September, 1989-December, 1995."  The publication includes a history of mathematics departments at Xavier beginning in 1915. Also of interest (in Appendix C-1) is "The Pi Mu Epsilon Address of Raymond Allen, S.J."  which gives historical insights on Xavier mathematics departments.</p></scopecontent></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Self-study of the Computer Science Program</unittitle><unitdate type="inclusive" normal="1997 October 22" era="ce" calendar="gregorian">1997 October 22</unitdate></did><scopecontent><p>This folder contains the publication "Self-study of the Computer Science Program, for the Period September, 1989 to December, 1996," and also the update for this publication for the period December, 1996-August, 1999. Consult the update volume for a history of the Computer Science program at Xavier from 1964 to 1997.</p></scopecontent></c01></dsc></archdesc>
+</ead>

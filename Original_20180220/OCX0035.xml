@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0035</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Finding aid for the Xavier University Academic Organization Committee records</titleproper>
+<author>Finding aid prepared by Thomas Kennealy, S.J..</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>1535 Musketeer Drive</addressline><addressline>Cincinnati, OH 45207-3341</addressline></address><date type="publication">2018</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2014</date></creation>
+<langusage>Finding aid written in <language langcode="eng">English</language></langusage>
+<descrules>Finding aid prepared using <title render="italic">Describing Archives: a Content Standard</title></descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Academic Organization Committee</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Academic Organization Committee records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a">.25 linear feet (1 box)</physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">This is a collection of records pertaining to the work of the Academic Organization Task Force (later termed the Academic Organization Committee). The collection is not complete and some key documents are missing.</abstract>
+<unitid encodinganalog="035" label="Accession Number" countrycode="us" repositorycode="OCX">XUA- 35</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language>English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1983/1988" era="ce" calendar="gregorian">1983-1988</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of Xavier University Academic Organization Committee</head><p>The Academic Organization Task Force (later called the Academic Organization Committee) was organized in April, 1983 in order to study and give recommendations on the university's academic structure. It's report was submitted in December, 1983, resulting in the Board of Trustees making structural changes in 1984. Later recommendations in structural changes followed which were again approved by the Board of Trustees.</p><bioghist><p>In early 1983, the Dean of the Graduate School resigned and the Academic Vice President decided to take this opportunity to assess the effectiveness of Xavier's overall academic organization and structure. In a memo to the faculty dated April 13, 1983, he announced the formation of a Task Force of 7 persons, chaired by Dr. Roger Fortin, to study and evaluate the university's academic organization. The task force submitted its report to the Academic Vice President on December 13, 1983. After much discussion and debate, the Board of Trustees approved a series of changes in the academic structure including the introduction of a College of Professional Studies replacing Edgecliff College. This occurred in March, 1984, and was announced to the faculty in a memo from Dr. Fortin dated May 15, 1984. Sometime in the early fall of 1986 the Task Force, now called a committee, was reconstituted with 3 additional members recommended by the Faculty Committee. This Committee recommended further changes in the academic structure, the most important of which was that the College of Professional Studies be renamed the College of Social Sciences. The Board of Trustees approved these changes in March, 1988. On June 1, 2007, the College of Social Sciences became the College of Social Sciences, Health and Education.    The charge of the original task force was stated in Academic Vice President John Minahan's  memo of April 13, 1983: "I have asked the Task Force to consider the question of whether or not our present organizational structure is the best and most effective for the operation of academic affairs units at Xavier University."</p></bioghist></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This  collection includes memos, letters and reports pertaining to the work of the committee, 1983 to 1988.</p><scopecontent><p></p></scopecontent></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged chronologically.</p></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Restricted access. Please contact the Xavier University Archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box number, Folder number, XUA-35, Xavier University Academic  Organization Committee records, Special Collections and University Archives, Xavier University Library, Cincinnati, Ohio.</p></prefercite><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Planning</subject><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Administration</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><p></p><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Academic Organization Task Force</unittitle><unitdate type="inclusive" normal="1983/1988" era="ce" calendar="gregorian">1983-1988</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Academic Organization Task Force</unittitle><unitdate type="inclusive" normal="1983/1988" era="ce" calendar="gregorian">1983-1988</unitdate></did></c01></dsc></archdesc>
+</ead>

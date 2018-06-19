@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0029</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Academic Computing Task Force records</titleproper>
+<author>Thomas Kennealy, S.J..</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>1535 Musketeer Drive</addressline><addressline>Cincinnati, OH 45207-3341</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2014</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard.</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Academic Computing Task Force</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Academic Computing Task Force records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>.25 linear feet (1 box)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">Documentation and the 1991 final report of the Xavier University Academic Computing Task Force (ACTF).</abstract>
+<unitid encodinganalog="035" label="Collection Code" countrycode="us" repositorycode="OCX">XUA- 29</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of Xavier University Academic Computing Task Force</head><p>Early in the summer, 1990, Dr. Joan Connell, Academic Vice President of Xavier, established a task force to develop a long range plan for academic computing at Xavier. This task force, with the support of consultants from International Business Machines Corporation (IBM), was asked to develop a five-year plan for computing as it affects the curriculum, the classroom and research at Xavier University. In September, 1990, the initial planning meeting was held. The Task Force issued its final report in 1991.</p><bioghist><p>Not specified</p></bioghist></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This collection helps to give perspective on the development of academic computing at Xavier University. The collection consists of initial committee formation documents, a draft report, and the final report.</p><scopecontent><p>Not specified</p></scopecontent></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>This collection is arranged in the following order:</p><list type="simple"><item>Correspondence, including an Executive Summary</item><item>Draft Report</item><item>Final Report</item></list></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Restricted access. Please contact the Xavier University Archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-29, Academic Computing Task Force records, Special Collections and University Archives, Xavier University Library, Cincinnati, Ohio.</p></prefercite><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Planning</subject><subject encodinganalog="650$a" source="lcsh">Xavier University (Cincinnati, Ohio)--Data Processing</subject><subject encodinganalog="650$a" source="lcsh">Educational Technology--Ohio</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Academic Computing Task Force Correspondence and Executive Summary</unittitle><unitdate type="inclusive" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Academic Computing Task Force Draft Report</unittitle><unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Academic Computing Task Force Final Report</unittitle><unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate></did></c01></dsc></archdesc>
+</ead>

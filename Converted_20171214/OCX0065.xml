@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0065</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Department of Chemistry records</titleproper>
+<author>Thomas Kennealy, S.J..</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>3800 Victory Parkway</addressline><addressline>Cincinnati, OH 45207</addressline></address><date type="publication">2017</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2015</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Department of Chemistry</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Department of Chemistry records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>.5 linear feet (1 box)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">This small collection consists mainly of minutes, correspondence, reports, newsletters,and information on faculty.</abstract>
+<unitid encodinganalog="035" label="Collection Code" countrycode="us" repositorycode="OCX">XUA-65</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1943/2001" era="ce" calendar="gregorian">1943-2001</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This small collection contains various documents that shed some light on the history of the Xavier Chemistry Department: meeting minutes and reports, chemistry newsletters, various brochures, and other materials.</p><scopecontent/></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged into folders covering these broad areas:</p><list type="simple"><item>Minutes, Correspondence, and Reports</item><item>Chemistry Department Newsletters</item><item>Brochures, Programs, Etc.</item><item>Biographical Faculty Information</item></list></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>Some materials may have restricted access. Please contact the archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-65, Xavier University Department of Chemistry records, Special Collections and Archives, Xavier University, Cincinnati, Ohio.</p></prefercite><accruals encodinganalog="584"><head>Accruals</head><p>Additions to this collection are expected.</p></accruals><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="lcsh">Chemistry--Study and teaching</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>Minutes, Correspondence, and Reports</unittitle><unitdate type="inclusive" normal="1943/1963" era="ce" calendar="gregorian">1943-1963</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>Minutes, Correspondence, and Reports</unittitle><unitdate type="inclusive" normal="1964/1974" era="ce" calendar="gregorian">1964-1974</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">3</container><unittitle>Minutes, Correspondence, and Reports</unittitle><unitdate type="inclusive" normal="1975/1977" era="ce" calendar="gregorian">1975-1977</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">4</container><unittitle>Minutes, Correspondence, and Reports</unittitle><unitdate type="inclusive" normal="1978/1981" era="ce" calendar="gregorian">1978-1981</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">5</container><unittitle>Minutes, Correspondence, and Reports</unittitle><unitdate type="inclusive" normal="1982/2000" era="ce" calendar="gregorian">1982-2000</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">6</container><unittitle>Musketeer Chemist/ Newsletter</unittitle><unitdate type="inclusive" normal="1969/1971" era="ce" calendar="gregorian">1969-1971</unitdate><unitdate type="inclusive" normal=" 1981-1990" era="ce" calendar="gregorian"> 1981-1990</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">7</container><unittitle>Newsletter</unittitle><unitdate type="inclusive" normal="1991/1999" era="ce" calendar="gregorian">1991-1999</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">8</container><unittitle>Brochures, Posters, Announcements and Programs</unittitle><unitdate type="inclusive" normal="1951/1998" era="ce" calendar="gregorian">1951-1998</unitdate><unitdate type="inclusive" normal=" undated" era="ce" calendar="gregorian"> undated</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">9</container><unittitle>Information Concerning Professors and Alums of the Chemistry Program</unittitle><unitdate type="inclusive" normal="1969/2001" era="ce" calendar="gregorian">1969-2001</unitdate><unitdate type="inclusive" normal=" undated" era="ce" calendar="gregorian"> undated</unitdate></did></c01></dsc></archdesc>
+</ead>

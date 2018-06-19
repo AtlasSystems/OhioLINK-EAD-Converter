@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.library.kent.edu/ead.dtd">
+<ead>
+<eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" relatedencoding="dublin core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid mainagencycode="OCX" url="http://ohiolink.edu/EAD/oha.irk.html" countrycode="us">OCX0052</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Xavier University Art Collection Committee records</titleproper>
+<author>Thomas Kennealy, S.J..</author>
+</titlestmt>
+<publicationstmt><publisher>Xavier University Archives and Special Collections</publisher><address><addressline>Xavier University, McDonald Library</addressline><addressline>1535 Musketeer Drive</addressline><addressline>Cincinnati, OH 45207-3341</addressline></address><date type="publication">2018</date></publicationstmt></filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Tim McCabe using the OhioLINK EAD Application in <date>2014</date></creation>
+<langusage>English</langusage>
+<descrules>Describing Archives: a Content Standard</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="MARC">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>Xavier University Archives and Special Collections</corpname>
+<address><addressline>Phone: 513-745-4821</addressline>
+<addressline>http://www.xavier.edu/cm/archives</addressline>
+</address>
+</repository>
+<origination label="Creator:"><corpname encodinganalog="110">Xavier University (Cincinnati, Ohio). Art Collection Committee</corpname></origination>
+<unittitle label="Title:" encodinganalog="245$a">Xavier University Art Collection Committee records</unittitle>
+<physdesc label="Extent:" encodinganalog="300$a"><extent>.25 linear feet (1 box)</extent></physdesc>
+<abstract label="Abstract:" encodinganalog="520$a">This is a collection of correspondence and other records related to the work of the Xavier University Art Collection Committee and predecessor committees.</abstract>
+<unitid encodinganalog="035" label="Collection Code" countrycode="us" repositorycode="OCX">XUA-51</unitid>
+<langmaterial encodinganalog="546" label="Language:">The records are in <language langcode="eng">English</language></langmaterial>
+<physloc label="Location:">Xavier University Archives, Cincinnati, Ohio</physloc><unitdate type="inclusive" label="Dates:" encodinganalog="245$f" normal="1950/2001" era="ce" calendar="gregorian">1950-2001</unitdate></did>
+<!-- TOP LEVEL METADATA GOES HERE: -->
+<bioghist encodinganalog="545"><head>History of Xavier University Art Collection Committee</head><p>The Fine Arts Committee, as this committee was initially named, was created sometime in late 1949 or early 1950 and was discontinued at the end of the 1968-69 academic year.  It was reinstated in the summer of 1972 and was discontinued again in 1985.  In 1996 an ad hoc committee called the University Art Collection Committee was established by President Hoff.  It ceased to exist around 2001, never having been recognized as a permanent committee.</p><bioghist><p>In 1973-74 the charge of the committee read as follows:  "Appointed annually by the President and electing its own chairman, the Fine Arts Committee makes recommendations to the Vice President for Student Development on fine arts programs and exhibitions."
+ In 1980-81 the charge read as follows:  "This committee has as its purpose to develop interest in the fine arts in the community and to draw up recommendations regarding fine arts, the Carriage House Gallery, art exhibits, the care, storing and sale of paintings and other artistic objects belonging to the University." (Annual Lists of University Standing Committees)</p></bioghist></bioghist><scopecontent encodinganalog="520$a"><head>Scope and Content</head><p>This collection consists of one box with 3 folders containing minutes, correspondence and other records of the committee from 1950 to 2001.</p><scopecontent><p>Not specified</p></scopecontent></scopecontent><arrangement encodinganalog="351$b"><head>Statement of Arrangement</head><p>Materials are arranged chronologically.</p></arrangement><accessrestrict encodinganalog="506"><head>Restrictions on Access</head><p>This collection has restricted access. Please contact the Xavier University Archives staff.</p></accessrestrict><prefercite encodinganalog="524"><head>Preferred Citation</head><p>Box Number, Folder Number, XUA-51, Art Collection Committee records, Special Collections and University Archives, Xavier University Library, Cincinnati, Ohio.</p></prefercite><controlaccess><head>Indexing Terms</head><p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p><controlaccess><head>Subjects:</head><subject encodinganalog="650$a" source="local">Xavier University (Cincinnati, Ohio)--Art collections</subject></controlaccess></controlaccess><dsc type="combined"><head>Detailed Description of The Collection</head><c01 level="file"><did><container type="Box">1</container><container type="Folder">1</container><unittitle>University Art Collection Committee</unittitle><unitdate type="inclusive" normal="1950/1985" era="ce" calendar="gregorian">1950-1985</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">2</container><unittitle>University Art Collection Committee</unittitle><unitdate type="inclusive" normal="1996/1998" era="ce" calendar="gregorian">1996-1998</unitdate></did></c01><c01 level="file"><did><container type="Box">1</container><container type="Folder">3</container><unittitle>University Art Collection Committee</unittitle><unitdate type="inclusive" normal="1999/2001" era="ce" calendar="gregorian">1999-2001</unitdate></did></c01></dsc></archdesc>
+</ead>
