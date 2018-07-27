@@ -103,12 +103,10 @@ function processEad(doc) {
 	];
 
 	for (var nodeName of noteTypes) {
-		xpath.select(`//${nodeName}[not(p)]`, doc)
-			.forEach(node => {
-				addParagraph(node, "Not specified");
-			});
+		xpath.select(`//${nodeName}[not(node())]`, doc)
+			.forEach(removeNode);
 	}
-
+	
 	//
 	// Remove unitdate elements with no expressions
 	//
