@@ -103,8 +103,14 @@ function processEad(doc) {
 	];
 
 	for (var nodeName of noteTypes) {
+		// Remove any truly blank notes
 		xpath.select(`//${nodeName}[not(node())]`, doc)
 			.forEach(removeNode);
+		
+		// Add a paragraph to notes that still exist but are missing a 
+		// paragraph.
+		xpath.select(`//${nodeName}[not(p)]`, doc)
+			.forEach(node => addParagraph(node, "Not Specified"));
 	}
 	
 	//
