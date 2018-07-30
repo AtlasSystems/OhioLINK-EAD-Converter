@@ -162,6 +162,14 @@ function processEad(doc) {
 	xpath.select("//author", doc)
 		.forEach(normalizeAuthor);
 
+	//
+	// Set the actual publication date.
+	//
+	xpath.select("//publicationstmt//date", doc)
+		.forEach(badpubdate => {
+			badpubdate.textContent = xpath.select("//profiledesc//creation//date", doc)[0].textContent;
+		});
+
 	return doc;
 }
 
