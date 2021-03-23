@@ -1,3 +1,5 @@
+**⛔️ THIS REPOSITORY IS NOT MAINTAINED**
+
 # OhioLINK EAD Cleanup Script
 
 This repository contains a NodeJS script that cleans up EAD XMLs from OhioLINK,
